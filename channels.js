@@ -1,6 +1,6 @@
 ﻿(async () => {
   const PLAYLISTS = [
-    "https://raw.githubusercontent.com/munim-sah75/Cofs_TV/refs/heads/main/fancode.m3u",
+    "https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/iptv.m3u8",
     "https://iptv-org.github.io/iptv/categories/sports.m3u",
     "https://raw.githubusercontent.com/siksa40/xPola-Player/main/ARENA.m3u",
 	"https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u",
@@ -42,3 +42,4 @@
 
   window.channels = all;
 })();
+
