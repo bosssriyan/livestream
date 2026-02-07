@@ -1,6 +1,6 @@
 ﻿(async () => {
   const PLAYLISTS = [
-    "https://github.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/raw/main/ALL.m3u",
+    "https://raw.githubusercontent.com/mxonlive/mxonlive.github.io/refs/heads/main/playlists/jagobd.m3u",
     "",
     "",
 	"",
@@ -42,5 +42,6 @@
 
   window.channels = all;
 })();
+
 
 
