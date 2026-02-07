@@ -1,9 +1,9 @@
 ﻿(async () => {
   const PLAYLISTS = [
-    "https://raw.githubusercontent.com/etcvai/ExtenderMax/refs/heads/main/iptv.m3u8",
-    "https://iptv-org.github.io/iptv/categories/sports.m3u",
-    "https://raw.githubusercontent.com/siksa40/xPola-Player/main/ARENA.m3u",
-	"https://raw.githubusercontent.com/raid35/channel-links/main/8K.m3u",
+    "https://github.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/raw/main/ALL.m3u",
+    "",
+    "",
+	"",
   ];
 
   function parseM3U(text) {
@@ -42,4 +42,5 @@
 
   window.channels = all;
 })();
+
 
