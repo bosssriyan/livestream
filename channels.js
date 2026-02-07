@@ -1,7 +1,7 @@
 ﻿(async () => {
   const PLAYLISTS = [
     "https://raw.githubusercontent.com/mxonlive/mxonlive.github.io/refs/heads/main/playlists/jagobd.m3u",
-    "",
+    "https://mxonlive.short.gy/araimo-playlist-m3u",
     "",
 	"",
   ];
@@ -42,6 +42,7 @@
 
   window.channels = all;
 })();
+
 
 
 
